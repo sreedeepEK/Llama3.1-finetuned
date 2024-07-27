@@ -1,4 +1,4 @@
-**Fine-Tuned Llama 3.1 Model**
+### Fine-Tuned Llama 3.1 Model
 
 This repository contains the code and configuration used to fine-tune the Llama 3.1-8b model.
 
@@ -10,9 +10,6 @@ The fine-tuned model is deployed on Hugging Face, and can be [accessed directly]
 
 The model was fine-tuned on [alpaca-cleaned](https://huggingface.co/datasets/yahma/alpaca-cleaned) dataset.
 examples. The training process used a batch size of 8, and the learning rate was set to 2e-4.
-
-**How to Use**
-
 To use this fine-tuned model, simply visit the Hugging Face model hub and select the Fine-Tuned Llama 3.1 model.
 
 ## Installation
